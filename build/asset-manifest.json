@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.641fc005.css",
+    "main.js": "/static/js/main.01e411c2.js",
+    "static/js/787.042babbc.chunk.js": "/static/js/787.042babbc.chunk.js",
+    "static/media/dia-mundial-de-la-alimentacion-1.webp": "/static/media/dia-mundial-de-la-alimentacion-1.2481a5117297f1cf6f0f.webp",
+    "static/media/Sin__título.png": "/static/media/Sin__título.7326e7581761bb6a3319.png",
+    "static/media/ensalda.webp": "/static/media/ensalda.ab0215456956ef8ca585.webp",
+    "static/media/starup.png": "/static/media/starup.fa82ef176f653f7c3624.png",
+    "static/media/encargo.webp": "/static/media/encargo.359dd469906a469e2a01.webp",
+    "static/media/girl_point.webp": "/static/media/girl_point.1852cb212b42789c8ad2.webp",
+    "static/media/Bive.webp": "/static/media/Bive.3b2c3c3d60da4a5b8a1e.webp",
+    "index.html": "/index.html",
+    "main.641fc005.css.map": "/static/css/main.641fc005.css.map",
+    "main.01e411c2.js.map": "/static/js/main.01e411c2.js.map",
+    "787.042babbc.chunk.js.map": "/static/js/787.042babbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.641fc005.css",
+    "static/js/main.01e411c2.js"
+  ]
+}
